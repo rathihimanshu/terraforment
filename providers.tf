@@ -12,5 +12,5 @@ terraform {
   }
 }
 resource "aws_iam_user" "playuser1" {
-  name = "playuser-oneheretestj"
+  name = "playuser-oneheretestjjfj"
 }
